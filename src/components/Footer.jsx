@@ -15,7 +15,7 @@ export function Footer() {
                             >
                                 <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" className="me-2" />
                                 <span className="brand-text">
-                                    <span className="text-white">Online</span>
+                                    <span className="text-white">Online </span>
                                     <span className="text-primary text-color"> Shop</span>
                                 </span>
                             </a>
