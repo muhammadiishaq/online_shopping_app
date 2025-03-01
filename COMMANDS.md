@@ -5,7 +5,7 @@
     git clone REPOSITORY
     ```
 
-2. Installing Docker and Docker Compose
+2. Installing Docker  and Docker Compose
     ```powershell
     chmod +x docker_installation.sh
     ./docker_installation.sh
